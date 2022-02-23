@@ -2,6 +2,7 @@
 
 Simply change the directory and your pgn name in the code and it will plot something like this.
 You'll also need to download the two xlsx files as they basically tell the code which are the dark and light squares.
+Required packages: chess (pip install chess) and matplotlib (pip install matplotlib)
 
 Feel free to customize as you like!
 <img width="484" alt="image" src="https://user-images.githubusercontent.com/41393164/155405461-be865867-ff48-417f-acdf-01889a9c31c9.png">
