@@ -4,8 +4,7 @@ Simply change the directory and your pgn name in the code and it will plot somet
 You'll also need to download the two xlsx files as they basically tell the code which are the dark and light squares.
 
 Feel free to customize as you like!
-<img width="485" alt="image" src="https://user-images.githubusercontent.com/41393164/155404290-7c56c894-58d1-4b6e-9165-bbf226ef2320.png">
-
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/41393164/155405461-be865867-ff48-417f-acdf-01889a9c31c9.png">
 
 # Some other examples I have tried and you can certainly do by changing the code
 ![aaa_tal_larsen_1965](https://user-images.githubusercontent.com/41393164/155404543-fbe83110-4c88-40d6-a7ce-e380af84b649.png)
