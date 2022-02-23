@@ -18,7 +18,7 @@ from matplotlib.colors import LinearSegmentedColormap
 board = chess.Board()
 
 #my pgn file
-xpgn = 'Sagar vs John, circa 2021.pgn'
+xpgn = 'anand_kasparov_1991.pgn'
 
 pgn = open(str(xpgn))
 
